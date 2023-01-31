@@ -18,5 +18,9 @@ Relation Extraction, submitted to SIGIR 2023.
 * tiny_ models.py: various basic sub-model code files
 * fewshot.py: few-shot experiment code file
 * prompt_ policy.py: prompt learning prompt model implementation and experimental code file
+
+## Data sets
+*  Data sets 5-1, 5-2, 5-3, 5-4, 5-5 are used for nested relation extraction
+
 ## Run
 python prompt_policy.py
